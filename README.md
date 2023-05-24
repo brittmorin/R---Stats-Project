@@ -2,7 +2,7 @@
 
  PROPEL project at UCSF
  
-Video https://ucsf.box.com/s/iq73zh2ezjyv98pvc6k07na1rrx3ee7t
+Video https://ucsf.box.com/s/fgbmg392ai4m0mlstnxa4you6m70fas9
  
 **Data**
 Link https://corgis-edu.github.io/corgis/csv/tate/
