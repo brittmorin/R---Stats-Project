@@ -2,7 +2,7 @@
 
  PROPEL project at UCSF
  
-**The Data**
+**Data**
 Link https://corgis-edu.github.io/corgis/csv/tate/
 Author Austin Cory Bart acbart@vt.edu 
 Version 2.0.0, created 11/2/2015
